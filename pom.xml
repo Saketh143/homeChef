@@ -8,10 +8,10 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.youtube</groupId>
-    <artifactId>ecommerce</artifactId>
+    <groupId>com.homechef</groupId>
+    <artifactId>app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>e-commerce-youtube</name>
+    <name>homechef-app</name>
     <description>API's for E-Commerce application</description>
     <properties>
         <java.version>1.8</java.version>
